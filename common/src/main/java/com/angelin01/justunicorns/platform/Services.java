@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package com.angelin01.justunicorns.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.angelin01.justunicorns.Constants;
+import com.angelin01.justunicorns.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

@@ -1,8 +1,8 @@
-package com.example.examplemod.mixin;
+package com.angelin01.justunicorns.mixin;
 
-import com.example.examplemod.Constants;
+import com.angelin01.justunicorns.Constants;
 import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.screens.TitleScreen;
+
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

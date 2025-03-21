@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package com.angelin01.justunicorns.platform.services;
 
 public interface IPlatformHelper {
 

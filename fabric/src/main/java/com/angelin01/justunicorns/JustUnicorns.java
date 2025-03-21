@@ -1,8 +1,8 @@
-package com.example.examplemod;
+package com.angelin01.justunicorns;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class JustUnicorns implements ModInitializer {
     
     @Override
     public void onInitialize() {
