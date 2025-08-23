@@ -16,7 +16,7 @@ authors = $mod_authors #optional
 description = "${description}" #mandatory
 
 [[dependencies.${mod_id}]] #optional
-modId = "forge" #mandatory
+modId = "neoforge" #mandatory
 mandatory = true #mandatory
 versionRange = "[0,)" #mandatory
 ordering = "NONE" # The order that this dependency should load in relation to your mod, required to be either 'BEFORE' or 'AFTER' if the dependency is not mandatory
@@ -28,3 +28,6 @@ mandatory = true
 versionRange = "${compatible_forgemc_versions}"
 ordering = "NONE"
 side = "BOTH"
+
+[[mixins]]
+config = "${mod_id}.mixins.json"
