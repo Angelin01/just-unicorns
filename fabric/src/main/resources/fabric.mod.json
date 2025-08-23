@@ -14,7 +14,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.angelin01.justunicorns.ExampleModFabric"
+      "com.angelin01.justunicorns.JustUnicornsFabric"
     ]
   },
   "mixins": [
