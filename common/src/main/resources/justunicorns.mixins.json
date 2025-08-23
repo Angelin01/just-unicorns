@@ -3,7 +3,5 @@
   "minVersion": "0.8",
   "package": "com.angelin01.justunicorns.mixins",
   "compatibilityLevel": "JAVA_${java_version}",
-  "mixins": [
-    "MinecraftMixin"
-  ]
+  "mixins": []
 }
